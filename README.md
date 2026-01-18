@@ -127,7 +127,7 @@ It should **not** be used as a medical diagnostic tool.
 Machine Learning & Software Engineering Enthusiast  
 
 - GitHub: [Isaackjoshua](https://github.com/Isaackjoshua)
-- LinkedIn: *(Add your LinkedIn link here)*
+- LinkedIn: https://www.linkedin.com/in/isaack-joshua-7277ba29a/
 
 ---
 
