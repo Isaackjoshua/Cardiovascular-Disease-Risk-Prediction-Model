@@ -102,8 +102,34 @@ Detailed evaluation results and comparisons are provided in the notebooks/script
 - Pandas
 - Scikit-learn
 - Matplotlib / Seaborn
-- Jupyter Notebook
+- Jupyter ---
+
+## 🧠 Future Improvements
+
+- Incorporate ensemble methods (Random Forest, Gradient Boosting)
+- Apply advanced imbalance techniques (SMOTE, ADASYN)
+- Perform feature importance analysis
+- Experiment with deep learning models
+- Deploy model as a web API
 
 ---
 
-## 📂 Project Structure
+## ⚠️ Disclaimer
+
+This project is intended **for educational and research purposes only**.  
+It should **not** be used as a medical diagnostic tool.
+
+---
+
+## 👤 Author
+
+**Isaack Joshua**  
+Machine Learning & Software Engineering Enthusiast  
+
+- GitHub: [Isaackjoshua](https://github.com/Isaackjoshua)
+- LinkedIn: *(Add your LinkedIn link here)*
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
+
