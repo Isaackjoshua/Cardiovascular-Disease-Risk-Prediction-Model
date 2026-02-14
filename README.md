@@ -102,7 +102,7 @@ Detailed evaluation results and comparisons are provided in the notebooks/script
 - Pandas
 - Scikit-learn
 - Matplotlib / Seaborn
-- Jupyter ---
+- Jupyter notebook
 
 ## 🧠 Future Improvements
 
